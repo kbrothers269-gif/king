@@ -1,0 +1,8 @@
+{
+  "name": "PayPal",
+  "description": "Send money, pay bills, manage your digital wallet, request payments, and track personal and business finances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
